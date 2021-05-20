@@ -1,0 +1,19 @@
+{
+  "name": "@cdr0/megapkg",
+  "version": "1.0.0",
+  "description": "Require() many, related packages together.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briancsparks/megapkg.git"
+  },
+  "author": "Brian C Sparks <briancsparks@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briancsparks/megapkg/issues"
+  },
+  "homepage": "https://github.com/briancsparks/megapkg#readme"
+}
